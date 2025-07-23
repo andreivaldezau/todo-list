@@ -1,2 +1,3 @@
-# template-webpack
-Template repository for webpack-based projects.
+# todo-list
+
+Todo list project.
